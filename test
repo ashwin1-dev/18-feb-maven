@@ -1,0 +1,12 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building vlc1 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> maven-archetype-plugin:3.2.1:generate (default-cli) @ vlc1 >>>
+[INFO] 
+[INFO] <<< maven-archetype-plugin:3.2.1:generate (default-cli) @ vlc1 <<<
+[INFO] 
+[INFO] --- maven-archetype-plugin:3.2.1:generate (default-cli) @ vlc1 ---
+[INFO] Generating project in Interactive mode
